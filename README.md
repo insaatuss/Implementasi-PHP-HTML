@@ -1,2 +1,2 @@
-# Implementasi-PHP-HTML
-Tugas dari jong koding kelas web dinamis 
+# teknik-skeleton
+memisahkan perbagian agar dapat dipanggil secara terus menarus tanpa perlu mengetikan kode secara manual
